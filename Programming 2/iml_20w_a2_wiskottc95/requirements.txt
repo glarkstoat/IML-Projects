@@ -1,7 +1,0 @@
-notebook
-numpy
-pandas
-matplotlib
-scikit-learn
-seaborn
-h5py
