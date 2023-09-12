@@ -1,4 +1,4 @@
-# IML-Projects
+# Introduction to Machine Learning - Projects
 
 ### Assignment 1 - Assortment of task including linear and non-linear regression, clustering, estimating the generalization error and feature selection.
 
